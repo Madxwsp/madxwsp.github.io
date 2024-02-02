@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Saving Private Ryan (1998)
-date: 2024-02-03
+date: 2024-02-02
 lang: en
 tagline: Explore the cinematic masterpieces that took the world by storm.
 
