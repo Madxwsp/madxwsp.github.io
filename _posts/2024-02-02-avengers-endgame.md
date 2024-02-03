@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Avengers: Endgame - A Cinematic Marvel
+title: Avengers Endgame - A Cinematic Marvel
 date: 2024-01-24
 lang: en
 tagline: Unraveling the Epic Conclusion to the Infinity Saga
