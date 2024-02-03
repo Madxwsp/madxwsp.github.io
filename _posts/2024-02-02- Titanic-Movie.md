@@ -31,7 +31,3 @@ Decades after its release, the Titanic movie continues to be celebrated and reme
 # Conclusion
 
 In conclusion, James Cameron's Titanic remains a cinematic triumph that has stood the test of time. Its compelling narrative, memorable characters, technical innovations, and cultural impact have solidified its place in film history. As we continue to revisit this classic, we are reminded of the enduring power of storytelling and the emotional resonance of a well-crafted cinematic experience.
-
----
-
-Feel free to customize the content and structure to suit your preferences. Once you've filled in the information, you can save this as a markdown file (e.g., `titanic_movie.md`) and upload it to your GitHub repository.
